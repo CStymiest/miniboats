@@ -2,7 +2,7 @@
 """
 Created on Tue Aug 27 20:12:24 2019
 
-@author: CBD23
+@author: Cassie Stymiest, adapted from James Manning and Huanxin Xu
 """
 # This imports the plot tool from the "matplotlib" toolbox and calls it "plt":
 from matplotlib import pyplot as plt
