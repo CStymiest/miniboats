@@ -42,7 +42,7 @@ zoom_scale = 3
 #bbox = [np.min(lats)-zoom_scale,np.max(lats)+zoom_scale,\
 #        np.min(lons)-zoom_scale,np.max(lons)+zoom_scale]
 #untested modification by JiM
-bbox = [int(np.min(lats)-zoom_scale),int(np.max(lats)+zoom_scale),int(np.min(lons)-zoom_scale),int(np.max(lons)+zoom_scal)]
+bbox = [int(np.min(lats)-zoom_scale),int(np.max(lats)+zoom_scale),int(np.min(lons)-zoom_scale),int(np.max(lons)+zoom_scale)]
 
 fig, ax = plt.subplots(figsize=(12,6))
 plt.title("SOAH")
